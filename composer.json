@@ -1,5 +1,5 @@
 {
-  "name": "mollie/laravel-mollie",
+  "name": "bvharen/mollie-laravel-7-plus-clone",
   "description": "Mollie API client wrapper for Laravel & Mollie Connect provider for Laravel Socialite",
   "homepage": "https://github.com/mollie/laravel-mollie",
   "license": "BSD-2-Clause",
